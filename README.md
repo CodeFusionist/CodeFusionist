@@ -71,5 +71,5 @@ A full web-based item tracking and claim management platform designed to streaml
 
 📍 Nairobi, Kenya (Open to Remote Opportunities)  
 📧 muthokatitus@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/muthai-titus-muthoka/
+🔗 LinkedIn: [Muthoka Tito](https://www.linkedin.com/in/muthai-titus-muthoka/)
 🌐 Portfolio: [coming soon](#)
