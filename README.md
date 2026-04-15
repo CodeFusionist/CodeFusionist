@@ -1,12 +1,14 @@
 # 👋 Hi, I'm Muthoka Tito
 
-## Systems Developer | IT Diploma Graduate
+## Systems Developer | Backend-Focused | Health Tech Builder
 
-I am a backend-focused systems developer based in Nairobi, Kenya, specializing in building **secure, scalable web and mobile platforms**.
+I am a backend-focused systems developer based in Nairobi, Kenya, building **practical, scalable systems that solve real-world problems**.
 
-I design and develop **real-world management systems**, authentication architectures, reporting dashboards, and structured administrative workflows that solve practical business problems.
+I specialize in designing **structured backend architectures, administrative workflows, and data-driven systems** across web and mobile platforms.
 
-I am open to **employment opportunities, freelance collaborations, and startup ventures**.
+Recently, I’ve been exploring **health tech solutions**, including SMS-based systems designed for rural and low-connectivity environments.
+
+I am open to **employment opportunities, freelance projects, and impactful collaborations**.
 
 ---
 
@@ -21,10 +23,10 @@ I am open to **employment opportunities, freelance collaborations, and startup v
 
 - Backend Development (PHP, MySQL)
 - RESTful API Integration
-- Authentication & Role-Based Access Control
+- Authentication & Role-Based Access Control (RBAC)
 - Admin Dashboard Architecture
 - Dynamic Reporting & Data Visualization
-- Email & Notification System Integration
+- Notification Systems (SMS & Email Integration)
 - Flutter Mobile Application Development
 
 ---
@@ -36,19 +38,53 @@ I am open to **employment opportunities, freelance collaborations, and startup v
 **Mobile:** Flutter  
 
 **Tools & Concepts:**  
-Git & GitHub • MVC Architecture • Database Design • System Architecture • Workflow Automation  
+Git & GitHub • MVC Architecture • Database Design • System Design • Workflow Automation  
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
+### 📱 Findora — Lost Item Tracking Mobile App
 
-### Kibwezi Lost & Found Management System
-
-A full web-based item tracking and claim management platform designed to streamline lost and found processes.
+A mobile-first platform designed to help users report, track, and recover lost items across Kenya. Evolved from a web-based system into a scalable Flutter Android application.
 
 **Key Features:**
+- Report lost and found items with images
+- Claim and verification workflow system
+- Real-time status tracking (active, under review, resolved)
+- User authentication and profile system
+- Notification system for claim updates
 
-- Secure user authentication  
+**Tech Used:**
+Flutter • Supabase • Storage & Realtime
+
+👉 Demonstrates: mobile app development, system evolution (web → mobile), real-world product thinking
+
+---
+
+### 📲 Maternal Health SMS Advisory System (Health Tech)
+
+A system designed to deliver **timely pregnancy reminders and health advice via SMS** to expectant mothers using basic mobile phones in rural Kenya.
+
+**Key Features:**
+- Automated SMS reminders based on pregnancy stage (EDD)
+- Stage-specific maternal health messaging
+- Cron-based scheduling system
+- Retry logic for failed SMS delivery
+- Localized messaging (English & Swahili)
+
+**Tech Used:**
+PHP • MySQL • JavaScript • Cron Jobs • :contentReference[oaicite:0]{index=0} API
+
+👉 Demonstrates: real-world problem solving, system design under constraints, SMS gateway integration
+
+---
+
+### 📦 Kibwezi Lost & Found Management System
+
+A full web-based platform for tracking lost items and managing claim verification workflows.
+
+**Key Features:**
+- Secure user authentication system  
 - Role-based admin dashboard  
 - Claim approval & rejection workflows  
 - Email notifications for claim status updates  
@@ -56,17 +92,24 @@ A full web-based item tracking and claim management platform designed to streaml
 - Dynamic report generation (PDF & CSV export)  
 - AJAX-based filtering and data visualization  
 
-> This project demonstrates structured backend logic, scalable administrative architecture, and practical real-world problem solving.
-
-[View Project →](#) *(Add repository link once uploaded)*
+👉 Demonstrates: structured backend logic, scalable admin systems, workflow automation
 
 ---
 
 ## 📈 Currently Building
 
-- Enhanced reporting systems with **real-time filtering**
+- Scalable reporting systems with **real-time filtering**
 - Secure **claim verification workflows**
-- Scalable system structures for future **SaaS platforms**
+- SMS-based and notification-driven systems
+- Exploring **AI integration in health tech systems**
+
+---
+
+## 🧠 What I Focus On
+
+- Building systems that work in **real-world conditions**, not just ideal environments  
+- Designing for **scalability, usability, and reliability**  
+- Solving problems using **simple, effective technology first**  
 
 ---
 
@@ -74,5 +117,5 @@ A full web-based item tracking and claim management platform designed to streaml
 
 📍 Nairobi, Kenya (Open to Remote Opportunities)  
 📧 muthokatitus@gmail.com  
-🔗 LinkedIn: [Muthoka Tito](https://www.linkedin.com/in/muthai-titus-muthoka/)  
+🔗 LinkedIn: https://www.linkedin.com/in/muthai-titus-muthoka/  
 🌐 Portfolio: Coming Soon
