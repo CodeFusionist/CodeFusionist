@@ -118,4 +118,4 @@ A full web-based platform for tracking lost items and managing claim verificatio
 📍 Nairobi, Kenya (Open to Remote Opportunities)  
 📧 muthokatitus@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/muthai-titus-muthoka/  
-🌐 Portfolio: Coming Soon
+🌐 Portfolio: https://muthoka-portfolio.vercel.app/
